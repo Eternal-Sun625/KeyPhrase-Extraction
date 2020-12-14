@@ -1,5 +1,5 @@
 # Keyphrase Extraction
-Source codes of our EMNLP2016 paper [Keyphrase Extraction Using Deep Recurrent Neural Networks on Twitter](http://jkx.fudan.edu.cn/~qzhang/paper/keyphrase.emnlp2016.pdf)
+Source codes of EMNLP2016 paper [Keyphrase Extraction Using Deep Recurrent Neural Networks on Twitter](http://jkx.fudan.edu.cn/~qzhang/paper/keyphrase.emnlp2016.pdf)
 
 ## Preparation
 You need to prepare  the pre-trained word vectors.
